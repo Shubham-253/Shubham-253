@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-253&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-253" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-253" alt="shubham-253" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubham-253)](https://github.com/shubham-253/github-profile-trophy)
 
 - 🔭 I’m currently working on **SuperResolutionGANs**
 
