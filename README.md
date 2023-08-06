@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Image Processing -Edge detection: Part 1](https://the-shubham-pandey.medium.com/image-processing-edge-detection-part-1-d93b30f63a64?source=rss-839cba4253a8------2)
+- [Web Scraping using Python and Selenium&lpar;XPATH&rpar;](https://medium.com/analytics-vidhya/web-scraping-using-python-and-selenium-xpath-f315f63ac229?source=rss-839cba4253a8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
