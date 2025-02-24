@@ -3,7 +3,7 @@
 
 I'm a highly motivated 😎 Machine Learning Engineer from India🌍, and I absolutely love❤ delving into the exciting possibilities of Natural Language Processing(NLP) and Computer Vision in real-world scenarios🦾. ML has been my passion, and I've been on an incredible journey, constantly seeking knowledge and staying up-to-date. To know more please keep scrolling, Cheers😎.
  
-<h4>I have 3 years of professional experience in building ML products using cutting edge technologies and state of the art models. My work experience includes but not limited to the following :</h4>
+<h4>I have 4 years of professional experience in building ML products using cutting edge technologies and state of the art models. My work experience includes but not limited to the following :</h4>
  📜Document Parsing: Document parsing and entity extraction using deep learning techniques to automate and cut down its processing time.
 <br> 🔬Computer Vision: Have worked extensively in tasks such as image classification, object detection, segmentation, leveraging the power of computer vision to extract valuable insights from documents and images.
 <br> 🗣Natural Language Processing (NLP): Solving complex challenges in NER, text classification, Currently learning Language Models (LLMs).
