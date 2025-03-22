@@ -67,8 +67,7 @@ _(This section updates automatically every 12 hours)_ ⏳
 ## 🎯 Let's Connect!
 I'm always open to discussing **AI, Generative Models, and SaaS** ideas. Feel free to reach out!  
 📬 **Email:** shubham253pro@gmail.com  
-🐦 **Twitter:** [@YourHandle](#)  
-💼 **LinkedIn:** [YourProfile](#)  
+💼 **LinkedIn:** [shubham-pandey-b93545147](https://www.linkedin.com/in/shubham-pandey-b93545147/)  
 
 🔗 **Check out my projects & feel free to collaborate!** 🚀
 
