@@ -3,7 +3,7 @@
 🚀 **Machine Learning Engineer | AI Enthusiast | Generative AI & NLP Specialist**  
 📍 Gorakhpur, India  
 📧 shubham253pro@gmail.com  
-🌐 [Portfolio](#) | [LinkedIn](#) | [Twitter](#)  
+[LinkedIn](https://www.linkedin.com/in/shubham-pandey-b93545147/)
 
 ---
 
