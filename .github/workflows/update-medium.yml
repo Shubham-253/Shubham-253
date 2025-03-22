@@ -1,0 +1,31 @@
+name: Update Medium Articles
+
+on:
+  schedule:
+    - cron: '0 */24 * * *'  # Runs every 24 hours
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch latest Medium articles
+        run: |
+          curl -s "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@the-shubham-pandey" > medium.json
+          jq -r '.items[:4] | map("- **[\(.title)](\(.link))**") | join("\n")' medium.json > articles.txt
+
+      - name: Update README
+        run: |
+          awk '/<!--START-ARTICLES-->/ {print; print ""; system("cat articles.txt"); print ""; next} 1' README.md > temp.md
+          mv temp.md README.md
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated latest Medium articles" || exit 0
+          git push
