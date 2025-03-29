@@ -88,6 +88,12 @@ Currently, I am working as an **AI Engineer at Appinventiv Technologies**, solvi
 - **[GANs: Demystifying Loss Function](https://the-shubham-pandey.medium.com/gans-demystifying-loss-functions-318bf9ec1380?source=rss-839cba4253a8------2)**
 - **[Image Processing -Edge detection: Part 1](https://the-shubham-pandey.medium.com/image-processing-edge-detection-part-1-d93b30f63a64?source=rss-839cba4253a8------2)**
 
+
+- **[Data Types: From Overflow to Overblown](https://the-shubham-pandey.medium.com/data-types-from-overflow-to-overblown-2ea5f2e38ebc?source=rss-839cba4253a8------2)**
+- **[AI revolutionizing Air Travel: Lessons for Every Industry](https://the-shubham-pandey.medium.com/ai-revolutionizing-air-travel-lessons-for-every-industry-795da4b682cb?source=rss-839cba4253a8------2)**
+- **[GANs: Demystifying Loss Function](https://the-shubham-pandey.medium.com/gans-demystifying-loss-functions-318bf9ec1380?source=rss-839cba4253a8------2)**
+- **[Image Processing -Edge detection: Part 1](https://the-shubham-pandey.medium.com/image-processing-edge-detection-part-1-d93b30f63a64?source=rss-839cba4253a8------2)**
+
 <!--END-ARTICLES-->
 
 _(This section updates automatically every 12 hours)_ ⏳
